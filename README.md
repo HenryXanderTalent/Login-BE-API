@@ -71,7 +71,7 @@ The most important lessons for me during the project was to learn how to use bcr
 
 This example code below is an example of how I used bcrypt to encrypt and password upon user creation thus protecting the password within the database from such attacks as SQL injection:
 
-![image](https://user-images.githubusercontent.com/127749296/231246631-791b7588-e010-48d0-a605-1f34feb2e251.png)
+![image](https://user-images.githubusercontent.com/127749296/231246867-4fc05f15-2ac4-409c-9a98-dbadd9348248.png)
 
 Controller Module:
 
