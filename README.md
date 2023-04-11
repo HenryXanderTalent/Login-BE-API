@@ -71,31 +71,7 @@ The most important lessons for me during the project was to learn how to use bcr
 
 This example code below is an example of how I used bcrypt to encrypt and password upon user creation thus protecting the password within the database from such attacks as SQL injection:
 
-const { genSaltSync, hashSync, compareSync } = require("bcrypt");
-const { sign } = require("jsonwebtoken")
-
-module.exports = {
-    createUser: (req, res) => {
-        //passes the object being sent to db 
-        const body = req.body;
-        //encrypts the password //run npm install bcrypt
-        const salt = genSaltSync(10);
-        body.pword = hashSync(body.pword, salt)
-        //call upon create method from service
-        create(body, (err, results) => {
-            if (err) {
-                console.log(err);
-                return res.status(500).json({
-                    success: 0,
-                    message: "Database connection error"
-                });
-            } 
-            return res.status(200).json({
-                success: 1,
-                data: results
-            });
-        });
-    },
+![image](https://user-images.githubusercontent.com/127749296/231246631-791b7588-e010-48d0-a605-1f34feb2e251.png)
 
 Controller Module:
 
