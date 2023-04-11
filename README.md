@@ -41,12 +41,15 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+
 - Javascript 
+- Node.js
+- Express
+- JSON Web Token
+- bcrypt
+- Postman
+- MySQL Workbench
+- VS Code
 
 ### What I learned
 
