@@ -32,7 +32,7 @@ Users should be able to:
 ### Screenshot
 
 ![./assets/add user.png](./assets/add user.png)
-![](./assets/add user.png)
+![]([./assets/add user.png](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/add%20user.png))
 ![](./images/todo3.png)
 
 ## My process
