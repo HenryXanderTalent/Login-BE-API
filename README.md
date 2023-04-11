@@ -31,9 +31,11 @@ Users should be able to:
 
 ### Screenshot
 
-![./assets/add user.png](./assets/add user.png)
+#### Add User
 ![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/add%20user.png)
-![](./images/todo3.png)
+
+#### Delete User
+![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/delete%20user.png)
 
 ## My process
 
