@@ -31,11 +31,26 @@ Users should be able to:
 
 ### Screenshot
 
+#### Login Example
+![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/login.png)
+
+#### Authenticate Login
+![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/auth%20login.png)
+
 #### Add User
 ![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/add%20user.png)
 
 #### Delete User
 ![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/delete%20user.png)
+
+#### Get User
+![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/get%20user%20by%20email.png)
+
+#### Update User
+![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/update%20user.png)
+
+#### Database
+![](https://github.com/HenryXanderTalent/Login-BE-API/blob/master/assets/database.png)
 
 ## My process
 
