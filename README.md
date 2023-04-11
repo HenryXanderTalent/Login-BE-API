@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/add user.png)
+![](assets/add user.png)
 ![](./images/todo2.png)
 ![](./images/todo3.png)
 
